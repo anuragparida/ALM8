@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALM8</string>
+    <string name="almate_name">ALM8</string>
+
+    <string name="subscription_key">enter azure key</string>
+    <string name="subscription_apiroot">https://westus.api.cognitive.microsoft.com/vision/v1.0</string>
+
+    <string name="almate_tagline">Your personal assistant\nfor Alzheimer\'s</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
